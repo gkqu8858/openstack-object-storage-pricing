@@ -1,0 +1,1 @@
+# openstack-object-storage-pricing
